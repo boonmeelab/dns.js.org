@@ -63,6 +63,7 @@ var cnames_active = {
     ,"begin": "advanced-webapps-class.github.io/begin"
     ,"bestof": "michaelrambeau.github.io/bestofjs"
     ,"biu": "aprilorange.github.io/biu"
+    ,"boonmeelab": "boonmeelab.github.io"
     ,"brandonmerritt": "brandonmerritt.github.io"
     ,"brum": "brumjs.github.io"
     ,"bub": "dar5hak.github.io/bub"
